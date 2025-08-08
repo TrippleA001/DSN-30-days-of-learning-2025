@@ -63,9 +63,9 @@ Please ensure that you have the necessary prerequisites set up before proceeding
 
 ## Modules
 
-| Day   | Topic/Subject Matter                                                                |
-| ------| ----------------------------------------------------------------------------------- |
-| 1     | [	Introduction to Python](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/intro-to-python/&sa=D&source=editors&ust=1723135780850795&usg=AOvVaw1VI4WlSYOD8qhHnEEnCbeD) |
+| Day   | Topic/Subject Matter                                                                | Completed |
+| ------| ----------------------------------------------------------------------------------- |------------|
+| 1     | [	Introduction to Python](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/intro-to-python/&sa=D&source=editors&ust=1723135780850795&usg=AOvVaw1VI4WlSYOD8qhHnEEnCbeD) | [ ] |
 | 2     | [Introduction to Jupyter](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/python-create-run-jupyter-notebook/&sa=D&source=editors&ust=1723135780851166&usg=AOvVaw2GwEn97pJMEAMUW6zAVa04)                                 |
 | 3     | [Introduction to object-oriented programming with Python](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/python-object-oriented-programming/&sa=D&source=editors&ust=1723135780851288&usg=AOvVaw0MxSBMqpE2V29JnEMc66xL)                                    |
 | 4     | [	Introduction to machine learning](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning/&sa=D&source=editors&ust=1723135780851407&usg=AOvVaw1iCFfnznjq7YCwcdrXrL14)                                    |
