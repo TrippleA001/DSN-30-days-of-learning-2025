@@ -81,7 +81,7 @@ Please ensure that you have the necessary prerequisites set up before proceeding
 | 14    | [Measure and optimize model performance with ROC and AUC](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/optimize-model-performance-roc-auc/&sa=D&source=editors&ust=1723135780852456&usg=AOvVaw3RgrWLTxteBv42krvBy0ck)                          | ✅ |
 | Extra| [Train and evaluate classification models](https://learn.microsoft.com/en-us/training/modules/train-evaluate-classification-models) | ✅ |
 | 15    | [Train and evaluate clustering models](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/train-evaluate-cluster-models/&sa=D&source=editors&ust=1723135780852563&usg=AOvVaw1yh-v17ku2pWk8iSBBku5U)                            |   ✅ |
-| 16    | [Train and evaluate deep learning models](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/train-evaluate-deep-learn-models/&sa=D&source=editors&ust=1723135780852677&usg=AOvVaw2ay17GStKgt1n11lV7gngw)                            |  ❌ |
+| 16    | [Train and evaluate deep learning models](https://www.google.com/url?q=https://learn.microsoft.com/en-us/training/modules/train-evaluate-deep-learn-models/&sa=D&source=editors&ust=1723135780852677&usg=AOvVaw2ay17GStKgt1n11lV7gngw)                            | ✅ |
 ## Machine Learning with Microsoft Azure
 | Day   | Topic/Subject Matter                                                                |
 | ------| ----------------------------------------------------------------------------------- |
